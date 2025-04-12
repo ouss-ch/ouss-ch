@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ouss-ch
-- 👀 I’m interested in machine learning, web developping and robotics.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking forward to collaborate on open source projects.
+- 👋 Hi, I’m Oussama
+- 👀 I’m interested in theoretical machine learning and AI.
 - 📫 You can reach me on linkedin [here](https://www.linkedin.com/in/oussama-chayeb-785b57207/)
 
 <!---
